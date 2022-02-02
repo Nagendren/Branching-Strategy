@@ -2,6 +2,7 @@
 
 - A good branching strategy can help the development team to move fast and achieve parallel development allowing developers to work on tasks simultaneously.
 - Parallel builds and testing ensure developers get the feedback quickly.
+- CI-CD can be achieved.
 
 # Our branching strategy will cover,
 
