@@ -14,3 +14,9 @@
 | Branch | Stage 1 | Stage 2 | stage 3 | stage 4
 | ------ | --- | --- | --- | --- |
 | feature/* | checkout scm | Code Analysis(sonar) | Code Build | Deploy to Dev Env
+
+
+# Develop Branch Workflow:
+| Branch | Stage 1 | Stage 2 | stage 3 | stage 4 | stage 5
+| ------ | --- | --- | --- | --- | --- |
+| develop | checkout scm | Code Analysis(sonar) | Code Build | copy artifacts to nexus | Deploy to Test Env
