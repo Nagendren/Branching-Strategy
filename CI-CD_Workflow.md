@@ -11,6 +11,6 @@
 > Continuous Delivery is the next part of the pipeline which automates the deployment to the testing environment when the CI step is successful. The core idea is to deliver the code to QA environment so that it can be constantly and regularly validated.
 
 # Feature Branch Workflow:
-| Branch | Stage 1 | stage 2 | stage 3 | stage 4 | stage 5 |
-| --------- | ------------ | --------------------- |
-| feature/* | checkout scm | code analysis (sonar) | code build | deploy to DEV env |
+| Branch | Stage 1 | Stage 2 | stage 3 | stage 4
+| ------ | --- | --- | --- | --- |
+| feature/* | checkout scm | Code Analysis(sonar) | Code Build | Deploy to Dev Env
