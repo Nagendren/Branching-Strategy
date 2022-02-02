@@ -12,5 +12,5 @@
 
 # Feature Branch Workflow:
 | Branch | Stage 1 | stage 2 |
-| --------- | ------------ |   
+| --------- | ------------ | --------------------- |  
 | feature/* | checkout scm | code analysis (sonar) | code build | deploy to DEV env |
